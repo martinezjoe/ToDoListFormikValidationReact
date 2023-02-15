@@ -1,0 +1,14 @@
+
+.task-action {
+    cursor: pointer;
+}
+
+.task-completed {
+    color: rgb(39, 125, 125);
+    text-decoration: line-through;
+}
+
+.task-pending {
+    font-weight: bold;
+    color: hotpink;
+}

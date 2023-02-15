@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  color:#61dafb
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: aliceblue;
+}
+
+td, th {
+  padding: 15px;
+  border-bottom: 1px solid #000;
+}
+
+button {
+  border: 1px solid #000;
+  outline: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-family: 'Segoe UI';
+  background-color: #282c34;
+  color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
